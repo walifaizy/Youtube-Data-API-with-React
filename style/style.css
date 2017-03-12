@@ -1,0 +1,34 @@
+body {
+  background-color: #F1F1F1 !important;
+}
+
+.search-bar {
+  margin: 20px !important;
+  border-radius: 0 !important;
+  height: 20px !important;
+  height: 50px !important;
+  font-size: 25px !important;
+  color: darkgrey !important;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  border: 1px solid #dddddd;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.list-group-item {
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+/*.list-group-item:hover {
+  background-color: #303030;
+  color: white;
+}*/
+
+.vid-details {
+  font-size: 24px;
+  font-weight: 500;
+}
